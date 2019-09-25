@@ -1,0 +1,23 @@
+Annonce :
+https://azure.microsoft.com/en-us/blog/introducing-azure-devops/
+
+
+TFS :
+https://visualstudio.microsoft.com/fr/tfs/
+
+
+Release notes azure devops
+https://docs.microsoft.com/en-us/azure/devops/release-notes/
+
+
+
+Nouveautés :
+
+- nouveau design / changements de nom
+- changement d'urls
+- build yaml
+
+ <3 Open source
+- projets publics
+- utilisateurs illimités et builds gratuites pour open-source
+
